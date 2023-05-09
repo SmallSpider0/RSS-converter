@@ -130,4 +130,6 @@ dist
 .pnp.*
 
 # certs
-sslcert/*
+sslcert/server.crt
+sslcert/server.key
+sslcert/sk
