@@ -1,0 +1,19 @@
+{
+  "name": "RSS-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy": "^1.18.1",
+    "https-proxy-agent": "^6.1.0",
+    "node-fetch": "^3.3.1"
+  }
+}
